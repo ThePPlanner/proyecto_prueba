@@ -1,0 +1,1 @@
+Añado el archivo_c.txt vacioCreo una primera linea en archivo_c.txt
